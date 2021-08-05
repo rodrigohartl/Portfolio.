@@ -23,4 +23,4 @@ def hangman ():
         print ( " \n " .join(wrong_guesses[ 0 : stage]))
         print ( "You lose!" )
 hangman()
-#Felicidades
+
