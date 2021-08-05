@@ -23,7 +23,4 @@ def hangman ():
         print ( " \n " .join(wrong_guesses[ 0 : stage]))
         print ( "You lose!" )
 hangman()
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 81c4ea5 (Update hangman.py)
