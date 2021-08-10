@@ -1,5 +1,4 @@
 # Portfolio.
-Python Developer portfolio
 Welcome to my Portfolio. Here you can see my progress and work that I have been involved in in order to develop as a professional in what I love.
 I am a Python developer & Data Analyst Jr. I value the possibility of working in challenging environments that propose professional progress, always surrounded by a collaborative 
 team that allows me to enrich myself personally.
