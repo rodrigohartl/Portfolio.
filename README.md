@@ -11,7 +11,9 @@ My current goal is to have a job as a developer to improve my skills and thus be
 
 Linkedin profile:
 linkedin.com/in/rodrigo-hartl-69a072b3
+
 Github:
 github.com/rodrigohartl/Portfolio.
+
 Email:
 rodrigohartl@gmail.com
