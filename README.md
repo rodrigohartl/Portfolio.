@@ -9,7 +9,7 @@ Tools used: Python, Django, Flask, HTML, CSS, Javascript, Power BI, SQL, CSV, Ph
 My current goal is to have a job as a developer to improve my skills and thus be able to advance in my studies as a data scientist.
 
 Linkedin profile:
-linkedin.com/in/rodrigo-hartl
+@rodrigo-hartl
 
 Github:
 github.com/rodrigohartl/Portfolio.
