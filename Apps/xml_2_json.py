@@ -54,7 +54,7 @@ for node in xroot.iter("hosts"):
 s_vulns_not_web=s_vulns-s_vulns_web
 
 
-diccionario= {"hosts_count": s_hosts,"services_count": s_service+1,"website_count": s_websites,"web_vulns_count": s_vulns_web,
+diccionario= {"hosts_count": s_hosts,"services_count": s_service,"website_count": s_websites,"web_vulns_count": s_vulns_web,
     "vulns_count": s_vulns_not_web,"vulns": s_vulns_list}
 with open('data.json', 'w') as fp:
     json.dump(diccionario, fp)
