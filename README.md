@@ -14,5 +14,8 @@ Linkedin profile:
 Github:
 github.com/rodrigohartl/Portfolio.
 
+Blog:
+https://rodrigohartl.github.io/
+
 Email:
 rodrigohartl@gmail.com
