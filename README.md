@@ -12,7 +12,7 @@ Linkedin profile:
 @rodrigo-hartl
 
 Github:
-github.com/rodrigohartl/Portfolio.
+https://github.com/rodrigohartl/Portfolio.
 
 Blog:
 https://rodrigohartl.github.io/
